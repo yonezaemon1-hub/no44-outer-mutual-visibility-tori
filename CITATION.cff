@@ -1,10 +1,14 @@
 cff-version: 1.2.0
-message: "Unrefereed preprint candidate v0.3. Public release pending; no human peer review or novelty certification is claimed."
+message: "Please cite this unrefereed preprint. Novelty remains inconclusive; no human peer review is claimed."
 type: article
 title: "Outer Mutual Visibility on Discrete Tori: A Parity Defect and a Computer-Assisted Classification"
 authors:
   - family-names: Yonezu
     given-names: Ryutaro
     affiliation: Independent Researcher
+    email: yonezaemon1+research@gmail.com
 version: "0.3"
+date-released: 2026-10-30
+doi: 10.5281/zenodo.23805765
+url: https://zenodo.org/records/23805765
 license: LicenseRef-All-Rights-Reserved
