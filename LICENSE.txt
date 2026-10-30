@@ -1,0 +1,9 @@
+Copyright (c) 2026 Ryutaro Yonezu. All rights reserved.
+
+No permission is granted to reproduce, redistribute, modify, commercially
+exploit or relicense these files, except as permitted by applicable law or
+by express permission from the copyright holder.
+
+Historical candidate snapshots retain their original notices unchanged.
+The author has authorized public distribution of these snapshots as part
+of the planned publication package; no additional reuse license is granted.
